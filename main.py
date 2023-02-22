@@ -40,7 +40,7 @@ def random_data():
         "address": adr,
         "phone number": phone,
         "country code": "1",
-        "age": age,
+        "age": age,"birthday": birthday, #i forget wkwkw
         "height": height,
         "weight": weight
         }
